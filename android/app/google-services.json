@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363959909178",
+    "project_id": "toptanci-otomasyon",
+    "storage_bucket": "toptanci-otomasyon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363959909178:android:6ea36f161adb7da44c2e03",
+        "android_client_info": {
+          "package_name": "com.example.toptanci_otomasyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363959909178-hmqde4ste6tl8m4j7iv0083f8afa9tas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDyumA4Sl0HcbY4_iP_p7l-sgpgchfYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363959909178-hmqde4ste6tl8m4j7iv0083f8afa9tas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
